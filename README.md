@@ -1,5 +1,13 @@
 #LekThai
 
+##Demo
+https://orangemyworld.github.io/LekThai/index.html
+
+##Team Member
+* 57080501608 นายจิรัฏฐ์ ยอดทิพย์อุทัย
+* 57080501613 นายณัฎฐากร สุขสวัสดิ์
+* 57080501649 นายศรุฑ โชคญาณ์กร
+* 57080501656 นางสาวอุษา เทียนขจร
 
 ##Development
 * Installation: `npm install`
